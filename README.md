@@ -9,7 +9,7 @@
   <div style="display: flex; flex-direction: row;">
     <img src="https://github.com/amolbhakre1968/Maha_Marksheet_App/assets/133361608/4bc83bef-4833-4b95-af7a-15fdc0906f3b" style="height: 400px; width: auto; margin-right: 20px;">
     <img src="Screenshot (385).png" style="height: 400px; width: auto; margin-right: 20px;">
-    <img src="Screenshot (383).png" style="height: 400px; width: auto;">
+    <img src="https://github.com/amolbhakre1968/Maha_Marksheet_App/assets/133361608/4f910e3d-0d26-45cb-99cc-078084dc3b3f" style="height: 400px; width: auto;">
   </div>
 
   <div style="display: flex; flex-direction: row; margin-top: 20px;">
