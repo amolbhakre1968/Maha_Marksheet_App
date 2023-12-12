@@ -7,7 +7,7 @@
 <!-- Grid View of Screenshots -->
 <div align="center">
   <div style="display: flex; flex-direction: row;">
-    <img src="https://user-images.githubusercontent.com/125115689/235315781-fea65aed-38bf-4df3-bef5-e08d199d95f0.png" style="height: 400px; width: auto; margin-right: 20px;">
+    <img src="Screenshot (383).png" style="height: 400px; width: auto; margin-right: 20px;">
     <img src="https://user-images.githubusercontent.com/125115689/235315822-e66b3385-82cb-4225-8376-df8c0fa1a9c6.png" style="height: 400px; width: auto; margin-right: 20px;">
     <img src="https://user-images.githubusercontent.com/125115689/235315835-7daa1c22-be96-4928-aa9f-002aeac694ab.png" style="height: 400px; width: auto;">
   </div>
