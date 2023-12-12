@@ -14,7 +14,7 @@
 
   <div style="display: flex; flex-direction: row; margin-top: 20px;">
     <img src="https://github.com/amolbhakre1968/Maha_Marksheet_App/assets/133361608/4c167c45-5c48-4c88-bd16-14142cf6fcb4" style="height: 400px; width: auto; margin-right: 20px;">
-    <img src="Screenshot (381).png" style="height: 400px; width: auto; margin-right: 20px;">
+    <img src="https://github.com/amolbhakre1968/Maha_Marksheet_App/assets/133361608/d75006c8-ee1b-4446-9c68-b59ab7949d67" style="height: 400px; width: auto; margin-right: 20px;">
     <img src="Screenshot (384).png" style="height: 400px; width: auto;">
   </div>
 </div><hr>
